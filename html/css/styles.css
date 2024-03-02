@@ -1,0 +1,26 @@
+
+.div1,.div2{
+    text-align: center;
+    
+}
+.div1{
+    margin: auto;
+    
+}
+
+#backgroundText, #input{
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#input{
+    font-size: 2em;
+}
+#text{
+    margin: auto;
+}
+#btn{
+    cursor: pointer;
+    
+}
+
