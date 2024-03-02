@@ -6,7 +6,7 @@ function colorChanger(){
         document.body.style.backgroundColor = userInput;
         document.getElementById("input").textContent = userInput;
       }else{
-        //alert("This color does not exist!")
+        document.getElementById("input").textContent = `${userInput} is not a valid color!`
       }
 }
 
